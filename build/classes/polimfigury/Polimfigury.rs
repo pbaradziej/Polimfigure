@@ -1,0 +1,7 @@
+polimfigury.Polimfigury
+polimfigury.Figura
+polimfigury.Kwadrat
+polimfigury.FabrykaFigur
+polimfigury.KalkulatorFigur
+polimfigury.Kolo
+polimfigury.KalkulatorFigurIO
