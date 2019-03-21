@@ -1,0 +1,2 @@
+# Polimfigure
+uzycie wzorcow
